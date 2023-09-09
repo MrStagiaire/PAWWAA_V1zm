@@ -2337,13 +2337,13 @@ self iprintln("^6Press ^14 ^2To ^3Open ^4This ^5menu ^7, ^8and ^9move ^1whit ^2y
 DoPawwaaMessages(message)
 {
 self iprintlnbold(message);
-self iprintln("^6Tout Facon PAWWAA ce mec il et gay genre on et d'accord ^6!");
+self iprintln("^6Tout Facon PAWWAA on et d'accord ^6!");
 }
 
 DoQuoicouMessages(message)
 {
 self iprintlnbold(message);
-self iprintln("^6QuoicouUwU ^2& ^2QuoicouBissous!");
+self iprintln("^6UwU ^2& ^2Bissous!");
 }
 
 DoPainauMessages(message)
