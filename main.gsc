@@ -2361,7 +2361,7 @@ self iprintln("^18==^6B  Et ouai tu est dessus c'est juste une bite tu peux cont
 DoUseBzezRebbecca(message)
 {
 self iprintlnbold(message);
-self iprintln("^3c'est bon pour les bzez Rebebzez c'est bon pour toip! 8==========B");
+self iprintln("^3Pas d'idée pour ce message la mes on et la mon reuf");
 }
 
 
